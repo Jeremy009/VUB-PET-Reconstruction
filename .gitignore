@@ -1,0 +1,17 @@
+# MATLAB input and output (the Jaszczak reconstructions are not part of this repository)
+code/temp/
+*.mat
+*.asv
+code/*.pdf
+
+# LaTeX build files
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.out
+*.synctex.gz
+
+# macOS
+.DS_Store
